@@ -1,0 +1,44 @@
+body{
+    font-family:"微软雅黑";
+}
+a,a:hover{
+    text-decoration: none;
+    color: #666;
+}
+/*导航 begin*/
+.icon-span{
+    padding-right:8px;
+}
+.list-a{
+    color: #4c81fd;
+}
+.liuyan-a{
+    width:55px;
+    height:55px;
+}
+.user-title{
+    font-size:22px;
+    padding-top:0;
+    margin-top:0;
+    margin-bottom:20px;
+    padding-bottom:8px;
+    border-bottom:1px solid #ccc;
+}
+.nav-page-number .pagination{
+    padding-top:0;
+    margin-top:0;
+}
+.user-info-alert{
+    margin-top:15px;
+}
+
+
+
+/*版权声明*/
+#footer{
+    font-weight:400;
+    font-size:15px;
+    text-align: center;
+    margin:20px 0;
+}
+
